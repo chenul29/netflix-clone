@@ -4,10 +4,7 @@ import { useState } from 'react'
 
 const Login = () => {
 
-
   const [signState, setSignState] = useState("Sign In")
-
-
 
   return (
     <div className='login'>
